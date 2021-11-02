@@ -144,8 +144,11 @@ h7{
     text-align: center;
 }
 .pricing-cards{
-    padding: 3%5%;
+    padding: 3%3%;
     text-align: center;
+}
+.price{
+    padding: 30px;
 }
 
 
