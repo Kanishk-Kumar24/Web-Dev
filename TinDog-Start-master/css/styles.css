@@ -71,7 +71,15 @@ h7{
     /* this command is used to rotate the photo not a photo in specific can be anything  */
     transform: rotate(30deg);
     position: absolute;
-
+}
+@media (max-width: 1028px){
+    .title-image{
+        position: static;
+        transform: rotate(0);
+    }
+    h1{
+        text-align: center;
+    }
 }
 
 
